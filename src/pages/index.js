@@ -1,0 +1,11 @@
+export { default as HomePage } from "./HomePage";
+export { default as BarPage } from "./BarPage";
+export { default as ServicesPage } from "./ServicesPage";
+export { default as AboutUsPage } from "./AboutUsPage";
+export { default as ContactUsPage } from "./ContactUsPage";
+export { default as TeamPage } from "./TeamPage";
+export { default as ChefDetailsPage } from "./ChefDetailsPage";
+export { default as BlogsPage } from "./BlogsPage";
+export { default as BlogDetailsPage } from "./BlogDetailsPage";
+export { default as ComingSoonPage } from "./ComingSoonPage";
+export { default as PageNotFound } from "./PageNotFound";
